@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sai Satya Pavan Charan 👋</h1>
 
-<h3 align="center">🚀 Full Stack Developer · Machine Learning Enthusiast · India</h3>
+<h3 align="center">🚀 Machine Learning Major · Full Stack Developer · India</h3>
 
 <br/>
 
