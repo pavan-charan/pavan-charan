@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-- 🔭 Currently working on **COVID-19 Fake News Detection**
+- 🔭 Currently working on **ResumeFriendly AI**
 - 🌱 Learning **Machine Learning** and **Deep Learning**
 - 👨‍💻 Enjoy building **full-stack applications** and exploring **AI-driven solutions**
 - 🤝 Open to collaborating on interesting projects
